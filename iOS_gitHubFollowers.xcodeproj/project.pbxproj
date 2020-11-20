@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC190C8D25682B7800567989 /* GHFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC190C8C25682B7800567989 /* GHFButton.swift */; };
+		BC190C8F2568330600567989 /* GHFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC190C8E2568330600567989 /* GHFTextField.swift */; };
 		BCA05C5E2561894700285408 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA05C5D2561894700285408 /* AppDelegate.swift */; };
 		BCA05C652561894E00285408 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCA05C642561894E00285408 /* Assets.xcassets */; };
 		BCA05C682561894E00285408 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCA05C662561894E00285408 /* LaunchScreen.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC190C8C25682B7800567989 /* GHFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHFButton.swift; sourceTree = "<group>"; };
+		BC190C8E2568330600567989 /* GHFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHFTextField.swift; sourceTree = "<group>"; };
 		BCA05C5A2561894700285408 /* iOS_gitHubFollowers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_gitHubFollowers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCA05C5D2561894700285408 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCA05C642561894E00285408 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				BCA05C692561894E00285408 /* Info.plist */,
 				BCA05C712562F8B400285408 /* FavoritesVC.swift */,
 				BCA05C732562FAAD00285408 /* SearchVC.swift */,
+				BC190C8C25682B7800567989 /* GHFButton.swift */,
+				BC190C8E2568330600567989 /* GHFTextField.swift */,
 			);
 			path = iOS_gitHubFollowers;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 				BCA05C742562FAAD00285408 /* SearchVC.swift in Sources */,
 				BCA05C5E2561894700285408 /* AppDelegate.swift in Sources */,
 				BCA05C722562F8B400285408 /* FavoritesVC.swift in Sources */,
+				BC190C8F2568330600567989 /* GHFTextField.swift in Sources */,
+				BC190C8D25682B7800567989 /* GHFButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -68,7 +68,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         UITabBar.appearance().tintColor = .green
         tabBar.viewControllers = [createSearchNC(), createFavoritesNC()]
-        
         return tabBar
     }
 }
